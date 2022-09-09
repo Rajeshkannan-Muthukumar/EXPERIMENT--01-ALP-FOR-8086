@@ -1,6 +1,8 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name : M.RAJESHKANNAN
+Name : M.RAJESHKANNAN 
+
 Roll no : 212221230081
+
 Date of experiment : 09/09/2022
 
 
@@ -20,7 +22,7 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 2.	  Run  emu8086 icon (on the desktop or in the c:\EMU8086 folder of window) It has green color 
  
  
-3.		write the code for the appropriate program for ADDITION,SUBTRACTION, MULTIPLICATION,  DIVISION operations 
+3.	write the code for the appropriate program for ADDITION,SUBTRACTION, MULTIPLICATION,  DIVISION operations 
 
 4.	 Compile the program and check for the errors 
 5.	Run (once there is no syntax error) 
